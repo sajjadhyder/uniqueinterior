@@ -1,0 +1,46 @@
+.contact-details{
+	text-align: left;
+	padding-bottom: 10%;
+	padding-left: 4%;
+}
+
+.container{
+	padding-top: 5%;
+	z-index: 1;
+}
+
+#logo{
+	padding-top:2%;
+	margin-top: 1%;
+}
+#content{
+	background-color: rgba(255,255,255,0.7);
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.7em;
+    font-weight: lighter;
+
+}
+
+h1,h2,h3,h4,h5{
+	font-family: 'Cinzel', serif;
+}
+h4{
+	font-size: 1.4em;
+    font-weight: bolder;
+}
+
+h2{
+	font-size: 3em;
+	font-weight:normal;
+}
+h1{
+	font-size: 4em;
+	font-weight:normal;
+}
+
+body{
+	background-position: center;
+}
